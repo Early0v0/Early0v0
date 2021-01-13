@@ -1,0 +1,3 @@
+![Early's github stats](https://github-readme-stats.vercel.app/api?username=Early0v0&show_icons=true)
+
+Learning C++ and JavaScript...
